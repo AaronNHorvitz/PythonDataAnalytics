@@ -30,4 +30,5 @@ def stdDevOfLengths(L):
 
 L = ['Sheather', 'Jasperson', 'Dabney', 'Sridhar']
     
-test = stdDevOfLen
+test = stdDevOfLen(L)
+print(test)
